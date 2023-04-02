@@ -1,0 +1,23 @@
+{
+    "name": "ay4t/ci4smtp2go",
+    "description": "Integrasi SMTP2GO dengan codeigniter 4",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ay4t\\Ci4smtp2go\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ayatulloh Ahad R",
+            "email": "kawoel@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
