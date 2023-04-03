@@ -1,5 +1,5 @@
 {
-    "name": "ay4t/ci4smtp2go",
+    "name": "ay4t/smtp2go",
     "description": "Integrasi SMTP2GO dengan codeigniter 4",
     "type": "library",
     "require": {
